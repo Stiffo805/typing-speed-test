@@ -1,0 +1,23 @@
+:root {
+  --neutral1: hsl(0, 0%, 100%);
+  --neutral2: hsl(240, 1%, 59%);
+  --neutral3: hsl(240, 3%, 46%);
+  --neutral4: hsl(0, 0%, 9%);
+  --neutral5: hsl(0, 0%, 7%);
+
+  --blue1: hsl(210, 100%, 65%);
+  --blue2: hsl(214, 100%, 55%);
+
+  --red1: hsl(354, 63%, 57%);
+
+  --green1: hsl(140, 63%, 57%);
+
+  --yellow1: hsl(49, 85%, 70%);
+
+  --fs1: 16px;
+  --fw1: 400;
+  --fw2: 600;
+  --fw3: 700;
+
+  --w-main: clamp(360px, 65vw, 1080px);
+}
