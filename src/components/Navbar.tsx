@@ -16,8 +16,8 @@ const Navbar = () => {
         </div>
       </div>
       <div className='flex items-center gap-1 text-sm'>
-        <img src={iconPersonalBest} alt='Trophy' className='w-4' />
-        <span className='text-(--neutral3)'>Personal best:</span>
+        <img src={iconPersonalBest} alt='Trophy' className='w-4 mr-1' />
+        <span className='text-(--neutral5)'>Personal best:</span>
         <span className='text-(--neutral1)'>92 WPM</span>
       </div>
     </div>

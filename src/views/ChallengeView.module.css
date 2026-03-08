@@ -1,0 +1,5 @@
+@layer components {
+  strong {
+    @apply text-(--neutral1) font-(--fw3) ;
+  }
+}

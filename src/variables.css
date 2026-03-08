@@ -1,9 +1,10 @@
 :root {
   --neutral1: hsl(0, 0%, 100%);
   --neutral2: hsl(240, 1%, 59%);
-  --neutral3: hsl(240, 3%, 46%);
+  --neutral3: hsl(240, 3%, 18%);
   --neutral4: hsl(0, 0%, 9%);
-  --neutral5: hsl(0, 0%, 7%);
+  --neutral5: hsl(0, 0%, 50%);
+  --neutral6: hsl(0, 0%, 7%);
 
   --blue1: hsl(210, 100%, 65%);
   --blue2: hsl(214, 100%, 55%);
